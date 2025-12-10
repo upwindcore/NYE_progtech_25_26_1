@@ -1,5 +1,5 @@
 # NYE_progtech_25_26_1
-A magyar Amőba (Gomoku) terminál játék megvalósítása Java 21 és Maven használatával.
+Az Amőba terminál játék megvalósítása Java 21 és Maven használatával. Ez a projekt a Programozási technológiák tantárgyhoz készült.
 
 ## Játék szabályok
 
